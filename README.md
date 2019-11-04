@@ -1,4 +1,4 @@
-# kuCity城市选择插件
+## kuCity城市选择插件
 #### 在页面中引入input标签
    ```
    <input type="text" class="search" placeholder="选择城市">
